@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+url: "https://digihtml.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+  - jekyll-robotstxt
+name: Ayush
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+favicon:
+  source: https://digihtml.github.io/fav/apple-touch-icon.png
+
